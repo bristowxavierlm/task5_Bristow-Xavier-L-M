@@ -21,8 +21,7 @@ Steps Performed
 4. Applied filters to inspect various protocols:
    - http
    - dns
-   - icmp
-
+   - tcp
 
 
 Protocols Identified
