@@ -35,7 +35,7 @@ Protocols Identified
 
 
 Files
-- network-capture.pcap: Captured network traffic containing DNS, HTTP, ICMP, and TCP/TLS packets.
+- network capture.pcap: Captured network traffic containing DNS, HTTP, ICMP, and TCP/TLS packets.
 
 
 Summary
